@@ -117,3 +117,8 @@ show()
 ## Conclusion
 
 This code helps find the linear relationship between two variables and visualize it. The slope and intercept are calculated using linear regression formulas, and the resulting line is plotted to show how well it fits the data.
+
+<img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/968be557dd22b1a2e536b8d22369cfdb37f58703'>
+<img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/59819b2ba266487624878946052a924ce01f12b4'>
+
+<img src = 'https://wikimedia.org/api/rest_v1/media/math/render/svg/dc26c9980ced33c9461b7e9b8aece55f65677e00'>
